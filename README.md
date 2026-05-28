@@ -30,3 +30,15 @@ Live at: https://beauty-mii.vercel.app
 
 ## Author
 Maha - CSCI390 Project Phase 2
+
+
+## Screenshots
+
+### Home Page
+![Home Page](public/screenshots/home.png.jpeg)
+
+### Products Page
+![Products Page](public/screenshots/products.png.jpeg)
+
+### Contact Page
+![Contact Page](public/screenshots/contact.png.jpeg)
