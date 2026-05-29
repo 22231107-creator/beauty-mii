@@ -15,7 +15,7 @@ function Home() {
         </div>
         <div className="column">
           <h3>Natural Beauty</h3>
-          <p>Cruelty-free and eco-friendly products.</p>
+          <p>Cruelty‑free and eco‑friendly products.</p>
         </div>
       </div>
     </>
